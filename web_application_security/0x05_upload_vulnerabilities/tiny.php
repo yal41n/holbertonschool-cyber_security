@@ -1,0 +1,1 @@
+<?=readfile('FLAG_4.txt');?>
